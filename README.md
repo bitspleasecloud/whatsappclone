@@ -1,16 +1,11 @@
 # whatsapp_clone
 
-A new Flutter application.
+Whatsapp UI clone built in Flutter. For more info, visit https://bitsplease.me
 
-## Getting Started
+## Screen Shots
+<div>
+  <img src="https://github.com/bitspleasecloud/whatsappclone/blob/master/screenshots/chats.png" width="200" alt="Chats" />
+  <img src="https://github.com/bitspleasecloud/whatsappclone/blob/master/screenshots/status.png" width="200" alt="Status" />
+  <img src="https://github.com/bitspleasecloud/whatsappclone/blob/master/screenshots/calls.png" width="200" alt="Calls" />
+</div
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
